@@ -1,10 +1,38 @@
 const quizData = [
     {
         question: 'How can you check your current git version?',
-        a1: 'git --v',
-        a2: 'git --version',
-        a3: 'git --option',
-        correct: 'git --version'
-    }
-    
+        a: 'git --v',
+        b: 'git --version',
+        c: 'git --option',
+        d: 'git version',
+        correct: 'b',
+    },{
+        question: 'What command lets you create a connection between a local and remote repository?',
+        a: 'git remote add new',
+        b: 'git remote add origin',
+        c: 'git remote new origin',
+        d: 'git remote origin',
+        correct: 'b',
+    }, {
+        question: 'Which of the following is true you when you use the following command? git add -A',
+        a: 'All new and updated files are staged',
+        b: 'Files are staged in alphabetical order',
+        c: 'All new files are staged',
+        d: 'Only updated files are staged',
+        correct: 'a',
+    },{
+        question: 'What will the following command print to the Terminal? git remote -v',
+        a: 'A list of remote repositories and their URLs',
+        b: 'The current git version you are running',
+        c: 'An inline editor for modifying remote repositories',
+        d: 'The last 5 git versions you have installed',
+        correct: 'a',
+    }, {
+        question: 'What option can you use to apply git configurations across your entire git environment?',
+        a: '--all',
+        b: '--master',
+        c: '--global',
+        d: '--update',
+        correct: 'c',
+    }  
 ]
