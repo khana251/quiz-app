@@ -1,4 +1,4 @@
-# quiz-app 
+# Check your knowledge of Git through an online quiz 
 
 https://khana251.github.io/quiz-app/
 
