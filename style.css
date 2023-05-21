@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #215f7a;
+    background-color: #bbd6e2;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,6 +29,8 @@ body {
 
 h2 {
     margin: 0;
+    text-align: center;
+    padding: 1rem;
 }
 
 ul {
