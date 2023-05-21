@@ -1,4 +1,6 @@
-# quiz-app (https://khana251.github.io/quiz-app/)
+# quiz-app 
+
+https://khana251.github.io/quiz-app/
 
 A quiz app to test your knowledge of *git* and some of its key commands.
 
